@@ -1,7 +1,9 @@
-Criação de novos ambientes de apoio às disciplinas
-==================================================
+Docentes
+========
 
-TESTE!!!
+Criação de novos ambientes de apoio às disciplinas
+--------------------------------------------------
+
 O Moodle da USP oferece a possibilidade de criar "ambientes de apoio"
 aos ministrantes de turmas cadastrados no Júpiter ou Janus.
 
@@ -23,14 +25,16 @@ simples:
        junção de turmas (recomendado se os ministrantes trabalham
        juntos).
 
-**Atenção: por padrão o acesso de visitantes** é permitido. Isto
- significa que é permitido o acesso do conteúdo "estático" (arquivos e
- material didático) por todos os visitantes, incluindo mecanismos de
- busca como Google. Para restringir o acesso ao seu material somente
- aos alunos inscritos, escolha "Não" na hora de criar ambiente de
- apoio. Para ambientes existentes, veja como configurar o acesso de
- visitantes. Saiba que, mesmo abrindo o seu ambiente de apoio online,
- é possível também restringir o acesso a um recurso em particular.
+**Atenção: por padrão o acesso de visitantes** é permitido.
+
+  Isto significa que é permitido o acesso do conteúdo "estático"
+  (arquivos e material didático) por todos os visitantes, incluindo
+  mecanismos de busca como Google. Para restringir o acesso ao seu
+  material somente aos alunos inscritos, escolha "Não" na hora de
+  criar ambiente de apoio. Para ambientes existentes, veja como
+  configurar o acesso de visitantes. Saiba que, mesmo abrindo o seu
+  ambiente de apoio online, é possível também restringir o acesso a um
+  recurso em particular.
 
 **Atenção: se o link "Criar ambiente" não aparecer:**
 
@@ -56,7 +60,7 @@ Agora que foi criado seu ambiente de apoio, veja `o material de
 referência`_  para aprender a usá-lo.
 
 Juntar Turmas
-=============
+-------------
 
 Recomendamos juntar as turmas se houver mais que uma por
 disciplina. Neste caso, seus colegas ministrantes serão inscritos
@@ -77,7 +81,7 @@ Veja as `instruções detalhadas de como é o novo processo de criação de
 ambientes de apoio e junção de turmas`_.
 
 Importar conteúdos de anos passados
-===================================
+-----------------------------------
 
 Use "Importar" na caixa "Administração do ambiente" novo e vazio para
 trazer conteúdo e atividades de outros anos.
@@ -103,7 +107,7 @@ que era de outra pessoa, entre em contato conosco
 antigo de o novo).
 
 Inscrição automática de alunos matriculados
-==========================================
+-------------------------------------------
 
 Os alunos matriculados no Júpiter ou Janus com conta no Moodle da USP,
 serão inscritos na hora da criação do ambiente de apoio e os outros
@@ -115,13 +119,19 @@ Moodle.
 atualmente inscritos no seu ambiente.
 
 Inscrição manual de alunos
---------------------------
+::::::::::::::::::::::::::
 
-É possível inscrever alunos manualmente, caso o procedimento automático descrito acima não funcione por algum motivo. Para inscrever alunos no seu curso, vá no menu "Administração" > "Usuários" > "Usuários inscritos" e em "Inscrever Usuários". Procure pelo número USP, o início do e-mail ou pelo nome. Os alunos têm que ter acessado o Moodle da USP pelo menos uma vez. Veja também Docentes, Monitores e Alunos Manualmente.
+É possível inscrever alunos manualmente, caso o procedimento
+automático descrito acima não funcione por algum motivo. Para
+inscrever alunos no seu curso, vá no menu "Administração" > "Usuários"
+> "Usuários inscritos" e em "Inscrever Usuários". Procure pelo número
+USP, o início do e-mail ou pelo nome. Os alunos têm que ter acessado o
+Moodle da USP pelo menos uma vez. Veja também Docentes, Monitores e
+Alunos Manualmente.
 
 
 Configurar acesso de visitantes
-===============================
+-------------------------------
 
 .. figure:: http://wiki.stoa.usp.br/images/thumb/2/2d/Moodle-visitantes.png/210px-Moodle-visitantes.png
 	    
@@ -143,7 +153,7 @@ possível fechar o seu ambiente. Acesse seu curso e procure no menu
 visitante (veja ao lado).
 
 Monitores
-=========
+---------
 
 No Moodle, é possível alguém ter um determinado "papel" com certas
 permissões no contexto de um determinado curso. Criamos um papel
@@ -160,7 +170,7 @@ as mesmas permissões que o papel "Docente" (pode editar o ambiente,
 avaliar atividades dos alunos, etc.)
 
 Editar o Ambiente
-=================
+-----------------
 
 O próximo passo é ir para o seu recém-criado curso e clicar no botão
 "Editar". Agora é possível colocar recursos e atividade nas seções
@@ -177,7 +187,7 @@ recomendamos o seguinte material de Referência:
     * Procure cursos disponibilizados por outras instituições 
 
 Acesso a mais funcionalidades
-=============================
+-----------------------------
 
 Algumas das atividades mais complexas ou especializadas, comumente,
 ficam ocultas para docentes ou monitores. Para ter acesso a atividades
@@ -191,3 +201,5 @@ Avançado". Dentro de seu ambiente:
     - Comece a digitar "av...";
     - Escolha "Docente Avançado";
     - Salve. 
+
+

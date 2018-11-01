@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Documentação do Mdle da USP / e-D
+Documentação do Moodle da USP / e-Disciplinas
 =============================================
 
 O Ambiente Virtual de Aprendizagem (AVA) Moodle, a plataforma
@@ -34,10 +34,12 @@ Senha USP:
   Júpiter, por exemplo).
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
+   cadastro
    docentes
+   dicas
 
 .. _Moodle: http://moodle.org
 
