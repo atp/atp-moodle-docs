@@ -1,7 +1,6 @@
 Criação de novos ambientes de apoio às disciplinas
 ==================================================
 
-TESTE!!!
 O Moodle da USP oferece a possibilidade de criar "ambientes de apoio"
 aos ministrantes de turmas cadastrados no Júpiter ou Janus.
 
