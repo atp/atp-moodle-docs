@@ -3,12 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-<<<<<<< HEAD
-Documentação do Moodle da USP / e-D
-Teste 01
-=======
 Documentação do Moodle da USP / e-Disciplinas
->>>>>>> 57d80b44eb030a4aabae2e60b811881f08e23294
 =============================================
 
 O Ambiente Virtual de Aprendizagem (AVA) Moodle, a plataforma
