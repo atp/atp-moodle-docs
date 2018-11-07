@@ -22,12 +22,11 @@ funcionalidades especificamente para os docentes e alunos da USP.
 Facilidade na criação de ambientes de apoio:
   O sistema oferece aos
   ministrantes de disciplinas (segundo os sistemas Júpiter e Janus) a
-  possibilidade de `criar ambientes de apoio
-  com apenas alguns clicks`_.
+  possibilidade de `criar ambientes de apoio com apenas alguns clicks`_.
 
 Inscrições automáticas:
   Todos os alunos matriculados nos sistemas
-  Júpiter e Janus serão automaticamente inseridos no ambiente de apoio
+  Júpiter e Janus serão `automaticamente inseridos`_ no ambiente de apoio
   associado à disciplina (se este foi criado), ao entrar no endereço
   https://edisciplinas.usp.br.
 
@@ -47,5 +46,6 @@ Senha USP:
    dicas
 
 .. _Moodle: http://moodle.org
-
+.. _`criar ambientes de apoio com apenas alguns clicks`: cadastro.html
+.. _`automaticamente inseridos`: docentes.html
 
