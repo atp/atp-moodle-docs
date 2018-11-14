@@ -1,3 +1,5 @@
+.. contents:: Conteúdo
+
 Docentes
 ========
 
@@ -52,7 +54,8 @@ simples:
        logar) pelo menos uma vez no Moodle da USP para que seu usuário
        seja criado no sistema. É necessário o seu nome (o número USP
        também pode ser útil), e o código da disciplina no Júpiter ou
-       Janus, e eventualmente o código da turma (um código do tipo
+     `restringir o acesso a um
+  recurso em particular`_ Janus, e eventualmente o código da turma (um código do tipo
        "2016201"). Podemos "juntar" mais do que uma turma no mesmo
        ambiente. ]
 
@@ -72,13 +75,20 @@ Durante o processo de criação do ambiente de apoio à disciplina é
 possível juntar, num único ambiente no Moodle, várias turmas no
 Júpiter. Comece criando o ambiente de uma das turmas e na segunda
 tela, escolha as outras turmas. Se as outras turmas têm outros
-ministrantes, esses serão inscritos também (é possível inscrevê-los
-manualmente também se o colega ministrante não tinha conta no sistema
+ministrantes, esses serão inscritos também (`é possível inscrevê-los
+manualmente`_ também se o colega ministrante não tinha conta no sistema
 no momento de criação do ambiente).  Juntar mais turmas no ambiente
 sendo criado
 
+.. figure:: ../_images/775px-Juntar_turmas.png
+   :align: center
+
+.. _`é possível inscrevê-los manualmente`: https://atp-moodle-docs.readthedocs.io/pt/latest/dicas.html#Inscrever_Docentes.2C_Monitores_e_Alunos_manualmente
+
 Veja as `instruções detalhadas de como é o novo processo de criação de
 ambientes de apoio e junção de turmas`_.
+
+.. _`instruções detalhadas de como é o novo processo de criação de ambientes de apoio e junção de turmas`: https://atp.usp.br/moodle/melhorias-na-criacao-de-novos-ambientes-no-moodle-da-usp
 
 Importar conteúdos de anos passados
 -----------------------------------
@@ -103,6 +113,12 @@ que era de outra pessoa, entre em contato conosco
 (suporte@edisciplinas.usp.br, de preferência, com os links do ambiente
 antigo de o novo).
 
+.. figure:: ../_images/Importar.png
+   :align: center
+
+   Use "Importar" na caixa "Administração do ambiente" novo e vazio para 
+   trazer conteúdo e atividades de outros anos.
+
 Inscrição automática de alunos matriculados
 -------------------------------------------
 
@@ -123,15 +139,18 @@ automático descrito acima não funcione por algum motivo. Para
 inscrever alunos no seu curso, vá no menu "Administração" > "Usuários"
 > "Usuários inscritos" e em "Inscrever Usuários". Procure pelo número
 USP, o início do e-mail ou pelo nome. Os alunos têm que ter acessado o
-Moodle da USP pelo menos uma vez. Veja também Docentes, Monitores e
-Alunos Manualmente.
+Moodle da USP pelo menos uma vez. Veja também `Docentes, Monitores e
+Alunos Manualmente`_.
 
-.. _`configurar o acesso de visitantes`:
+
+.. _`Docentes, Monitores e Alunos Manualmente`: https://atp-moodle-docs.readthedocs.io/pt/latest/dicas.html#Inscrever_Docentes.2C_Monitores_e_Alunos_manualmente
+.. _`configurar o acesso de visitantes`:  https://atp-moodle-docs.readthedocs.io/pt/latest/docentes.html#configurar-acesso-de-visitantes
+.. _`restringir o acesso a um recurso em particular`: https://atp-moodle-docs.readthedocs.io/pt/latest/docentes.html#configurar-acesso-de-visitantes
 
 Configurar acesso de visitantes
 -------------------------------
 
-.. figure:: http://wiki.stoa.usp.br/images/thumb/2/2d/Moodle-visitantes.png/210px-Moodle-visitantes.png
+.. figure:: ../_images/criar-ambiente-0.png  
 	    
   Clicando em "Métodos de inscrição" > "Acesso como visitante",
   determine se não-logados podem ver os arquivos e os outros recursos
@@ -157,10 +176,11 @@ No Moodle, é possível alguém ter um determinado "papel" com certas
 permissões no contexto de um determinado curso. Criamos um papel
 especialmente para monitores, no sentido que são usados na USP.
 
-Para cadastrar Monitores no seu curso, vá no menu "Administração",
-clique em "Designar Funções" > "Monitor" e na tela seguinte use a
-função busca para achar o usuário em questão. Veja também Inscrever
-Docentes, Monitores e Alunos Manualmente.
+Para cadastrar Monitores no seu curso, vá no menu "Administração", clique em "Designar Funções" > "Monitor" e na tela seguinte use a
+função busca para achar o usuário em questão. Veja também `Inscrever
+Docentes, Monitores e Alunos Manualmente`_.
+
+.. _`Inscrever Docentes, Monitores e Alunos Manualmente`: https://atp-moodle-docs.readthedocs.io/pt/latest/dicas.html#Inscrever_Docentes.2C_Monitores_e_Alunos_manualmente
 
 Docentes de cursos podem escolher qualquer usuário do Moodle para ser
 Monitor no seu curso. Por enquanto, o papel de "Monitor" possui quase
@@ -177,20 +197,20 @@ nas configurações do curso). Veja mais algumas funções em
 Ajuda:Moodle/Dicas para começar. Para quem quiser se aprofundar,
 recomendamos o seguinte material de Referência:
 
-    * A `documentação oficial`_ do Moodle, para ministrantes, administradores, etc. Para docentes e monitores recomendamos o o FAQ e a página Managing a Moodle Course
+    * A `documentação oficial`_ do Moodle, para ministrantes, administradores, etc. Para docentes e monitores recomendamos o o `FAQ`_ e a página `Managing a Moodle Course`_
     * De seis em seis meses é oferecido um "MOOC" sobre como usar Moodle: veja https://learn.moodle.net/ e participe gratuitamente (em inglês).
-    * A Arquivo:MoodleToolGuideforTeachers Shared May2010 ptbr.pdf é um guia visual que associa processos pedagógicos com ferramentas do Moodle
-    * Existem vários tutoriais interessantes na rede.
-    * É possível testar funcionalidades do Moodle no site de demonstração do próprio Moodle
-    * Procure cursos disponibilizados por outras instituições 
+    * O Arquivio: `MoodleToolGuideforTeachers Shared May2010 ptbr <../_files/MoodleToolGuideforTeachers_Shared_May2010_ptbr>`_ é um guia visual que associa processos pedagógicos com ferramentas do Moodle
+    * Existem vários `tutoriais`_ interessantes na rede.
+    * É possível testar funcionalidades do Moodle no `site de demonstração do próprio Moodle`_
+    * Procure `cursos disponibilizados por outras instituições`_ 
 
 Acesso a mais funcionalidades
 -----------------------------
 
 Algumas das atividades mais complexas ou especializadas, comumente,
 ficam ocultas para docentes ou monitores. Para ter acesso a atividades
-como o Laboratório de Programação (VPL) ou acessar a gestão mais
-avançada dos inscritos, é possível mudar o próprio papel para "Docente
+como o Laboratório de Programação (VPL) ou acessar a `gestão mais
+avançada dos inscritos`_, é possível mudar o próprio papel para "Docente
 Avançado". Dentro de seu ambiente:
 
     - Clique em "Usuários" > "Usuários inscritos";
@@ -200,8 +220,15 @@ Avançado". Dentro de seu ambiente:
     - Escolha "Docente Avançado";
     - Salve. 
 
-.. _`o material de referência`: dicas.html
-.. _`restringir o acesso a um recurso em particular`: dicas.html
-.. _`documentação oficial`: dicas.html
+.. figure:: ../_images/Mudar_Papel.gif
+   :align: center
 
+.. _`o material de referência`: https://atp-moodle-docs.readthedocs.io/pt/latest/dicas.html
+.. _`documentação oficial`: https://atp-moodle-docs.readthedocs.io/pt/latest/dicas.html
+.. _`gestão mais avançada dos inscritos`: https://atp-moodle-docs.readthedocs.io/pt/latest/dicas.html#Gerir_alunos_inscritos
+.. _`FAQ`: http://docs.moodle.org/en/Teacher_documentation
+.. _`Managing a Moodle Course`: http://docs.moodle.org/en/Managing_a_Moodle_course
+.. _`tutoriais`: http://www.google.com.br/search?q=tutorial+moodle
+.. _`site de demonstração do próprio Moodle`: http://hub.moodle.org/
+.. _`cursos disponibilizados por outras instituições`: http://hub.moodle.org/
 
