@@ -32,9 +32,9 @@ simples:
   mecanismos de busca como Google. Para restringir o acesso ao seu
   material somente aos alunos inscritos, escolha "Não" na hora de
   criar ambiente de apoio. Para ambientes existentes, veja como
-  configurar o acesso de visitantes. Saiba que, mesmo abrindo o seu
-  ambiente de apoio online, é possível também restringir o acesso a um
-  recurso em particular.
+  `configurar o acesso de visitantes`_ . Saiba que, mesmo abrindo o seu
+  ambiente de apoio online, é possível também `restringir o acesso a um
+  recurso em particular`_.
 
 **Atenção: se o link "Criar ambiente" não aparecer:**
 
@@ -83,9 +83,6 @@ ambientes de apoio e junção de turmas`_.
 Importar conteúdos de anos passados
 -----------------------------------
 
-Use "Importar" na caixa "Administração do ambiente" novo e vazio para
-trazer conteúdo e atividades de outros anos.
-
 No Moodle da USP, os ambientes de apoio dos anos passados são
 **arquivados**. Os alunos, monitores e docentes continuam inscritos e
 as interações no AVA se preservam. Não recomendamos desinscrever os
@@ -129,6 +126,7 @@ USP, o início do e-mail ou pelo nome. Os alunos têm que ter acessado o
 Moodle da USP pelo menos uma vez. Veja também Docentes, Monitores e
 Alunos Manualmente.
 
+.. _`configurar o acesso de visitantes`:
 
 Configurar acesso de visitantes
 -------------------------------
@@ -179,7 +177,7 @@ nas configurações do curso). Veja mais algumas funções em
 Ajuda:Moodle/Dicas para começar. Para quem quiser se aprofundar,
 recomendamos o seguinte material de Referência:
 
-    * A documentação "oficial" do Moodle, para ministrantes, administradores, etc. Para docentes e monitores recomendamos o o FAQ e a página Managing a Moodle Course
+    * A `documentação oficial`_ do Moodle, para ministrantes, administradores, etc. Para docentes e monitores recomendamos o o FAQ e a página Managing a Moodle Course
     * De seis em seis meses é oferecido um "MOOC" sobre como usar Moodle: veja https://learn.moodle.net/ e participe gratuitamente (em inglês).
     * A Arquivo:MoodleToolGuideforTeachers Shared May2010 ptbr.pdf é um guia visual que associa processos pedagógicos com ferramentas do Moodle
     * Existem vários tutoriais interessantes na rede.
@@ -201,5 +199,9 @@ Avançado". Dentro de seu ambiente:
     - Comece a digitar "av...";
     - Escolha "Docente Avançado";
     - Salve. 
+
+.. _`o material de referência`: dicas.html
+.. _`restringir o acesso a um recurso em particular`: dicas.html
+.. _`documentação oficial`: dicas.html
 
 
