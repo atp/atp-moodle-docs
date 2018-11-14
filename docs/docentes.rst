@@ -150,8 +150,9 @@ Alunos Manualmente`_.
 Configurar acesso de visitantes
 -------------------------------
 
-.. figure:: ../_images/criar-ambiente-0.png  
-	    
+.. figure:: ../_images/criar-ambiente-0.png 
+     
+
   Clicando em "Métodos de inscrição" > "Acesso como visitante",
   determine se não-logados podem ver os arquivos e os outros recursos
   estáticos do seu ambiente de apoio.
@@ -199,7 +200,7 @@ recomendamos o seguinte material de Referência:
 
     * A `documentação oficial`_ do Moodle, para ministrantes, administradores, etc. Para docentes e monitores recomendamos o o `FAQ`_ e a página `Managing a Moodle Course`_
     * De seis em seis meses é oferecido um "MOOC" sobre como usar Moodle: veja https://learn.moodle.net/ e participe gratuitamente (em inglês).
-    * O Arquivio: `MoodleToolGuideforTeachers Shared May2010 ptbr <../_files/MoodleToolGuideforTeachers_Shared_May2010_ptbr>`_ é um guia visual que associa processos pedagógicos com ferramentas do Moodle
+    * O Arquivio: `MoodleToolGuideforTeachers Shared May2010 ptbr <../_files/MoodleToolGuideforTeachers_Shared_May2010_ptbr.pdf>`_ é um guia visual que associa processos pedagógicos com ferramentas do Moodle
     * Existem vários `tutoriais`_ interessantes na rede.
     * É possível testar funcionalidades do Moodle no `site de demonstração do próprio Moodle`_
     * Procure `cursos disponibilizados por outras instituições`_ 
