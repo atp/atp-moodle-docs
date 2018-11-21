@@ -83,7 +83,7 @@ sendo criado
 .. figure:: ../_images/775px-Juntar_turmas.png
    :align: center
 
-.. _`é possível inscrevê-los manualmente`: https://atp-moodle-docs.readthedocs.io/pt/latest/dicas.html#Inscrever_Docentes.2C_Monitores_e_Alunos_manualmente
+.. _`é possível inscrevê-los manualmente`: https://atp-moodle-docs.readthedocs.io/pt/latest/dicas.html#inscrever-docentes-monitores-e-alunos-manualmente
 
 Veja as `instruções detalhadas de como é o novo processo de criação de
 ambientes de apoio e junção de turmas`_.
@@ -143,15 +143,16 @@ Moodle da USP pelo menos uma vez. Veja também `Docentes, Monitores e
 Alunos Manualmente`_.
 
 
-.. _`Docentes, Monitores e Alunos Manualmente`: https://atp-moodle-docs.readthedocs.io/pt/latest/dicas.html#Inscrever_Docentes.2C_Monitores_e_Alunos_manualmente
+.. _`Docentes, Monitores e Alunos Manualmente`: https://atp-moodle-docs.readthedocs.io/pt/latest/dicas.html#inscrever-docentes-monitores-e-alunos-manualmente
 .. _`configurar o acesso de visitantes`:  https://atp-moodle-docs.readthedocs.io/pt/latest/docentes.html#configurar-acesso-de-visitantes
 .. _`restringir o acesso a um recurso em particular`: https://atp-moodle-docs.readthedocs.io/pt/latest/docentes.html#configurar-acesso-de-visitantes
 
 Configurar acesso de visitantes
 -------------------------------
 
-.. figure:: ../_images/criar-ambiente-0.png 
-     
+.. figure:: ../_images/Moodle-visitantes.png
+
+
 
   Clicando em "Métodos de inscrição" > "Acesso como visitante",
   determine se não-logados podem ver os arquivos e os outros recursos
@@ -181,7 +182,7 @@ Para cadastrar Monitores no seu curso, vá no menu "Administração", clique em 
 função busca para achar o usuário em questão. Veja também `Inscrever
 Docentes, Monitores e Alunos Manualmente`_.
 
-.. _`Inscrever Docentes, Monitores e Alunos Manualmente`: https://atp-moodle-docs.readthedocs.io/pt/latest/dicas.html#Inscrever_Docentes.2C_Monitores_e_Alunos_manualmente
+.. _`Inscrever Docentes, Monitores e Alunos Manualmente`: https://atp-moodle-docs.readthedocs.io/pt/latest/dicas.html#inscrever-docentes-monitores-e-alunos-manualmente
 
 Docentes de cursos podem escolher qualquer usuário do Moodle para ser
 Monitor no seu curso. Por enquanto, o papel de "Monitor" possui quase
@@ -200,10 +201,12 @@ recomendamos o seguinte material de Referência:
 
     * A `documentação oficial`_ do Moodle, para ministrantes, administradores, etc. Para docentes e monitores recomendamos o o `FAQ`_ e a página `Managing a Moodle Course`_
     * De seis em seis meses é oferecido um "MOOC" sobre como usar Moodle: veja https://learn.moodle.net/ e participe gratuitamente (em inglês).
-    * O Arquivio: `MoodleToolGuideforTeachers Shared May2010 ptbr <../_files/MoodleToolGuideforTeachers_Shared_May2010_ptbr.pdf>`_ é um guia visual que associa processos pedagógicos com ferramentas do Moodle
+    * O Arquivio: `MoodleToolGuideforTeachers Shared May2010 ptbr`_ é um guia visual que associa processos pedagógicos com ferramentas do Moodle
     * Existem vários `tutoriais`_ interessantes na rede.
     * É possível testar funcionalidades do Moodle no `site de demonstração do próprio Moodle`_
     * Procure `cursos disponibilizados por outras instituições`_ 
+
+.. _`MoodleToolGuideforTeachers Shared May2010 ptbr`: https://render.githubusercontent.com/view/pdf?commit=00d060d87f058db0b9db1d348642f28506233090&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6174702f6174702d6d6f6f646c652d646f63732f303064303630643837663035386462306239646231643334383634326632383530363233333039302f5f66696c65732f4d6f6f646c65546f6f6c4775696465666f7254656163686572735f5368617265645f4d6179323031305f707462722e706466&nwo=atp%2Fatp-moodle-docs&path=_files%2FMoodleToolGuideforTeachers_Shared_May2010_ptbr.pdf&repository_id=155598128&repository_type=Repository#889d9aee-9d82-4b88-8c5a-af6676f4d5bd
 
 Acesso a mais funcionalidades
 -----------------------------
