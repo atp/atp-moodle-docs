@@ -54,8 +54,8 @@ simples:
        logar) pelo menos uma vez no Moodle da USP para que seu usuário
        seja criado no sistema. É necessário o seu nome (o número USP
        também pode ser útil), e o código da disciplina no Júpiter ou
-     `restringir o acesso a um
-  recurso em particular`_ Janus, e eventualmente o código da turma (um código do tipo
+       `restringir o acesso a um recurso em particular`_ Janus, e 
+       eventualmente o código da turma (um código do tipo
        "2016201"). Podemos "juntar" mais do que uma turma no mesmo
        ambiente. ]
 
@@ -206,7 +206,7 @@ recomendamos o seguinte material de Referência:
     * É possível testar funcionalidades do Moodle no `site de demonstração do próprio Moodle`_
     * Procure `cursos disponibilizados por outras instituições`_ 
 
-.. _`MoodleToolGuideforTeachers Shared May2010 ptbr`: https://render.githubusercontent.com/view/pdf?commit=00d060d87f058db0b9db1d348642f28506233090&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6174702f6174702d6d6f6f646c652d646f63732f303064303630643837663035386462306239646231643334383634326632383530363233333039302f5f66696c65732f4d6f6f646c65546f6f6c4775696465666f7254656163686572735f5368617265645f4d6179323031305f707462722e706466&nwo=atp%2Fatp-moodle-docs&path=_files%2FMoodleToolGuideforTeachers_Shared_May2010_ptbr.pdf&repository_id=155598128&repository_type=Repository#889d9aee-9d82-4b88-8c5a-af6676f4d5bd
+.. _`MoodleToolGuideforTeachers Shared May2010 ptbr`: https://github.com/atp/atp-moodle-docs/raw/master/_files/MoodleToolGuideforTeachers_Shared_May2010_ptbr.pdf
 
 Acesso a mais funcionalidades
 -----------------------------
