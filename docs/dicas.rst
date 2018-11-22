@@ -284,7 +284,7 @@ Agrupamentos
 ------------
 Ao começar trabalhar com Grupos, você rapidamente perceberá que há necessidade de usar grupos diferentes para atividades diferentes. Um agrupamento é um conjunto de grupos. Tipicamente, fazemos um agrupamentos com os grupos de uma determinada atividade, por exemplo "Grupos de Trabalho da Semana 3". Um outro agrupamento seria da semana 5. Uma vez formados os agrupamentos, poderá restringir atividades como Fórum ou Tarefa a um determinado agrupamento, o que é essencial no caso de Tarefas em Grupo. 
 
-Veja `um post (antigo) que explica bem o conceito`_. Veja também esta documentação e passo-a-passo criado pelo LAE da FEA `Arquivo:GruposeAgrupamentosLAE2017.pdf`_ (PDF).
+Veja `um post (antigo) que explica bem o conceito`_. Veja também esta documentação e passo-a-passo criado pelo LAE da FEA (Arquivo:GruposeAgrupamentosLAE2017.pdf (PDF), Arquivo:GruposeAgrupamentosLAE2017.odt(DOC) 
 
 Tarefas em Grupo
 ----------------
@@ -292,7 +292,7 @@ Tarefas em Grupo
 
 Porém, é essencial usar "`Agrupamentos`_" definido para este caso. Não configurar os grupos e um agrupamento para esta Tarefa vai impedir os alunos de enviar seu arquivo. Ou então, a tarefa vai associar o primeiro arquivo enviado ao um chamado "Grupo Padrão", o que vai impedir outros envios de todos os outros alunos que não foram inseridos num grupo corretamente.
 
-Veja este documentação e passo-a-passo criado pelo LAE da FEA `Arquivo:TarefasGrupoLAE2017.pdf`_ (PDF).
+Veja este documentação e passo-a-passo criado pelo LAE da FEA (Arquivo:TarefasGrupoLAE2017.pdf (PDF), [[1]](DOC) 
 
 Mudar o Tema (visual) do seu ambiente
 -------------------------------------
@@ -329,7 +329,7 @@ Há duas possibilidades:
      1. (Recomendado) acrescente uma atividade do tipo "Tarefa" no seu ambiente. Nas configurações, na seção "Tipos de envio", des-selecione tudo. Isto quer dizer que aluno não vai enviar nada, mas vai usar esta ferramenta para enviar as notas. Os alunos terão acesso via a Tarefa, e também via o link "Quadro de notas".
      2. Ou, use o link "Administração" > "Configuração do Livro de Notas" para "Adicionar um item de nota". Depois na aba "Ver" ou no link "Relatório de notas" pode "Ativar edição" e colocar as notas diretamente no "Quadro de Notas". 
 
-Há outra documentação do "Quadro de Notas", um pouco desatualizada: `o que é o quadro de notas, como organizar, como exportar e como importar notas a partir de uma planilha`_ (para divulgar os resultados de uma prova, por exemplo) .
+Há outra documentação do "Quadro de Notas", um pouco desatualizada: o que é o quadro de notas, como organizar, como exportar e como importar notas a partir de uma planilha (para divulgar os resultados de uma prova, por exemplo) .
 
 Mudar papel para
 ----------------
@@ -357,6 +357,7 @@ Alunos que trancaram uma disciplina (no Júpiter, por exemplo) não serão tirad
 	:align: center
 	:scale: 75
 
+
 .. _`Learn Moodle 3.5`: https://www.youtube.com/watch?v=-0H9HLv41vY&list=PLxcO_MFWQBDehWp4JRrMqUkC-60RBGTs0
 .. _`documentação oficial`: http://docs.moodle.org/
 .. _`FAQ`: https://docs.moodle.org/en/About_Moodle_FAQ
@@ -374,7 +375,4 @@ Alunos que trancaram uma disciplina (no Júpiter, por exemplo) não serão tirad
 .. _`Agrupamentos`: dicas.html#agrupamentos
 .. _`aqui para uma explicação mais completa`: http://atp.usp.br/moodle/como-migrar-sua-disciplina-para-o-novo-moodle-do-stoa/
 .. _`inscrever ela manualmente no seu ambiente`: dicas.html#inscrever-docentes-monitores-e-alunos-manualmente
-.. _`o que é o quadro de notas, como organizar, como exportar e como importar notas a partir de uma planilha`: notas.html
-.. _`Arquivo:TarefasGrupoLAE2017.pdf`: ../_files/TarefasGrupoLAE2017.pdf
-.. _`Arquivo:GruposeAgrupamentosLAE2017.pdf`: ../_files/GruposeAgrupamentosLAE2017.pdf
 
